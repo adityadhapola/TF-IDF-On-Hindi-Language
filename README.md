@@ -6,5 +6,7 @@ Mostly the TF-IDF is done on English language; which made me curious about its b
 
 tf-idf is basically a weighting scheme that assigns each term in a document a weight based on its term frequency (tf) and inverse document frequency (idf). The terms with higher weight scores are considered to be more important.
 Typically, the tf-idf weight is composed by two terms-
+
 1.Normalized Term Frequency (tf)
+
 2.Inverse Document Frequency (idf)
