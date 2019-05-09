@@ -10,3 +10,6 @@ Typically, the tf-idf weight is composed by two terms-
 1.Normalized Term Frequency (tf)
 
 2.Inverse Document Frequency (idf)
+
+
+(speech.txt is a hindi text file taken from Narendra Modi's speech.)
